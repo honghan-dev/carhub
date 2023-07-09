@@ -14,7 +14,8 @@ This is a simple web application built with Next.js, and TypeScript, and integra
 1. Clone the repository:
 
 ```shell
-git clone [https://github.com/honghan87/carhub.git]https://github.com/honghan87/carhub.git```
+git clone [https://github.com/honghan87/carhub.git]https://github.com/honghan87/carhub.git
+```
 
 2. Install dependencies:
 ```shell
